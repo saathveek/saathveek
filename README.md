@@ -30,7 +30,7 @@ I get especially excited about applying my skills to solve real-world challenges
   <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=microsoft&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
 </div>
 
 
