@@ -55,9 +55,9 @@ Also... I strongly believe that *anything* is better than buttercream frosting -
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://saathveek.com">
-    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/saathveek.com-000000?style=for-the-badge" alt="saathveek.com"/>
   </a>
   <a href="mailto:sg59@illinois.edu">
-    <img src="https://img.shields.io/badge/Email-sg59@illinois.edu-0074C2?style=for-the-badge&logo=outlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-sg59@illinois.edu-0074C2?style=for-the-badge" alt="Email"/>
   </a>
 </div>
