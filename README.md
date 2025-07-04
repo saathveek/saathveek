@@ -1,47 +1,63 @@
-<!-- ## Hello 👋
+## 👋 Hi there! I'm Saathveek Gowrishankar
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I'm a Computer Engineering & Data Science student passionate about building intelligent systems—from embedded ML on microcontrollers to forecasting pipelines at scale.
 
-**I love working with**
+I love applying machine learning and software development to real-world problems, especially in health, education, and infrastructure.
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</div>
+---
 
-### 🔭 I’m working on
-
-- Expanding my knowledge in a variety of fields, such as TinyML, ML forecasting, Data Science, and Software Development.
-
-### 🌱 I’m learning
+### 💻 Technologies I Enjoy Working With
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FC7300.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </div>
 
-### 🤔 I’m looking for help with
+---
 
-- Integrating AI models to web applications
+### 🔬 What I'm Exploring
 
-### 📫 How to reach me
+- 🎯 **TinyML** — Embedded keyword spotting on Arduino Nano 33 BLE Sense Microcontroller
+- 📈 **ML Forecasting** — Capacity planning with real-time infrastructure data
+- 🧠 **Human-Centered AI** — Modeling trust in assistive robots using survey data
+
+---
+
+### 🧠 Currently Learning
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+</div>
+
+---
+
+### 🌱 Outside of Code
+
+I'm the President of Engineers Without Borders at UIUC, where I work to create inclusive communities and drive impact through engineering. I enjoy working at the intersection of tech, leadership, and service.
+
+---
+
+### 📫 Connect with Me
+
+<div display="flex">
+  <a href="https://linkedin.com/in/saathveek">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://saathveek.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="mailto:gsaathveek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gsaathveek@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-### ⚡ Fun fact
+---
 
-I'm definitely not a cat person. -->
+### ⚡ Fun Fact
+
+I’ve run keyword spotting models on a microcontroller smaller than my thumb—and deployed forecasting models on cloud clusters hundreds of times larger.
+
