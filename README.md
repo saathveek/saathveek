@@ -14,7 +14,7 @@ I get especially excited about applying my skills to solve real-world challenges
 
 ### 💻 Technologies I Enjoy Working With
 
-<div display="flex">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FC7300.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -24,7 +24,7 @@ I get especially excited about applying my skills to solve real-world challenges
 
 ### 🧠 Technologies I'm Currently Learning
 
-<div display="flex">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -32,6 +32,7 @@ I get especially excited about applying my skills to solve real-world challenges
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
+
 
 ---
 
@@ -50,7 +51,7 @@ Also... I strongly believe that *anything* is better than buttercream frosting -
 
 ### 📫 Connect with Me
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <a href="https://linkedin.com/in/saathveek" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-5B9BD5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
