@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Saathveek Gowrishankar
+## 👋 Hi! Welcome to my GitHub
 
 I'm a Computer Engineering & Data Science student passionate about improving systems that make a real difference in the world.
 I get especially excited about applying my skills to solve real-world challenges. If it’s clever, useful, and helps people - I’m interested :)
@@ -7,9 +7,10 @@ I get especially excited about applying my skills to solve real-world challenges
 
 ### 🔬 What I'm Exploring
 
-- 📈 **ML Forecasting**: Building distributed capacity planning systems that help teams better anticipate resource needs ahead of surges
-- 🎯 **TinyML**: Running embedded keyword spotting on Arduino Nano 33 BLE Sense to enable intuitive voice commands for various technologies - hopefully including assistive robots!
-- 🧠 **Human-Centered AI**: Modeling trust dynamics with assistive robots to improve adoption among older adults
+- **ML Forecasting**: Building distributed capacity planning systems that help teams better anticipate resource needs ahead of surges
+- **TinyML**: Running embedded keyword spotting on a microcontroller to enable intuitive voice commands for various technologies - hopefully including robots!
+- **Human-Centered AI**: Modeling trust dynamics with assistive robots to improve adoption among older adults
+- **React/HTML**: Designing a web portfolio for fun!
 
 
 ### 💻 Technologies I Enjoy Working With
