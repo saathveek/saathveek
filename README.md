@@ -50,14 +50,14 @@ Also... I strongly believe that *anything* is better than buttercream frosting -
 
 ### 📫 Connect with Me
 
-<div display="flex">
-  <a href="https://linkedin.com/in/saathveek">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <a href="https://linkedin.com/in/saathveek" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-5B9BD5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://saathveek.com">
+  <a href="mailto:sg59@illinois.edu" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-5B9BD5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://saathveek.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/saathveek.com-5B9BD5?style=for-the-badge&logoColor=white" alt="saathveek.com"/>
-  </a>
-  <a href="mailto:sg59@illinois.edu">
-    <img src="https://img.shields.io/badge/Email-0074C2?style=for-the-badge" alt="Email"/>
   </a>
 </div>
